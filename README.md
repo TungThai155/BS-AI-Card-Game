@@ -1,5 +1,7 @@
 # BS AI Card Game
-Author: Aparna, Avi, Tung	       
+Author: Aparna, Avi, Tung
+This is a game AI implemetation of the card game BS
+Game Rule: https://drizly.com/game-night-how-to-play-bs/e-aee3890530ae5b9d
 There are two code files in this submission, GameHuman.py and GameAI.py.         	
        
 GameHuman.py	    
