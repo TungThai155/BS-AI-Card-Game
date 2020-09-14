@@ -1,8 +1,10 @@
 # BS AI Card Game
 Author: Aparna, Avi, Tung
-This is a game AI implemetation of the card game BS	
-Game Rule: https://drizly.com/game-night-how-to-play-bs/e-aee3890530ae5b9d	
-There are two code files in this submission, GameHuman.py and GameAI.py.         	
+This is a game AI implemetation of the card game BS				
+
+Game Rule: https://drizly.com/game-night-how-to-play-bs/e-aee3890530ae5b9d				
+
+There are two code files in this submission, GameHuman.py and GameAI.py.     		    	
        
 GameHuman.py	    
 GameHuman.py is used to implement the result of AI vs Human games (you should run this script to play the game).
