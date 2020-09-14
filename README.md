@@ -1,4 +1,4 @@
-# PR_Final_Project
+# BS AI Card Game
 Author: Aparna, Avi, Tung	       
 There are two code files in this submission, GameHuman.py and GameAI.py.         	
        
