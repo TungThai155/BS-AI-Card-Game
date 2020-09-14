@@ -1,7 +1,6 @@
 # PR_Final_Project
 Author: Aparna, Avi, Tung	       
-There are 2 files in this submission, GameResults.xlxs and “scr” folder.   	
-Under “scr” folder, there are two source code files in this submission, GameHuma.py and GameAI.py.         	
+There are two code files in this submission, GameHuman.py and GameAI.py.         	
        
 GameHuman.py	    
 GameHuman.py is used to implement the result of AI vs Human games (you should run this script to play the game).
